@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) throws InterruptedException {
 		
-		BlowJow bj = new BlowJow();
+		BlackJackClass bj = new BlackJackClass();
 
 		bj.Start();
 		bj.bet();

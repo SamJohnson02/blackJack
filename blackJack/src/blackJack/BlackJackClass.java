@@ -5,7 +5,7 @@ import java.util.Random;
 import java.util.Scanner;
 import java.util.Set;
 
-public class BlowJow {
+public class BlackJackClass {
 
 	String[] deck = {
 			"2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H", "10H", "JH", "QH", "KH", "AH", // Hearts
